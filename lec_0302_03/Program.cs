@@ -20,7 +20,7 @@ void PrintArray(int[] col);
     }
 }
 
-int IndexOf(int[] collection, find);
+int IndexOf(int[] collection, int find);
 {
     int count = collection.Lenght;
     int index = 0;
